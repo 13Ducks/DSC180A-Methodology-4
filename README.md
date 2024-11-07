@@ -1,3 +1,2 @@
 # DSC180A-Methodology-4
-Aaryan Agrawal
-aaagrawal@ucsd.edu
+Aaryan Agrawal and Bradley Nathanson
